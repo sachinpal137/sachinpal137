@@ -1,4 +1,7 @@
-## Hi there 👋
+ Hi there, I'm Sachin Kumar Pal 👋
+ Full-Stack Web Developer & Tech Architect
+
+An engineering graduate and ambitious full-stack developer dedicated to building high-performance, responsive, and scalable web ecosystems.
 
 <!--
 **sachinpal137/sachinpal137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
