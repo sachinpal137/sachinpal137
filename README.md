@@ -11,6 +11,22 @@ An engineering graduate and ambitious full-stack developer dedicated to building
 - **Backend & Databases:** Node.js, Express.js, REST APIs, MongoDB, MySQL, Firebase
 - **Workflow & Tools:** Git, GitHub, Postman, Vercel, Netlify
 
+---
+
+### 📈 Current Focus
+- 🚀 Optimizing single-page application architectures for sub-second loading times.
+- 💡 Engineering scalable SaaS-style web dashboards using React & dynamic charting libraries.
+- 🟩 Maintaining a strict daily production commit streak.
+
+---
+
+### 🤝 Connect with Me
+- **LinkedIn:** [linkedin.com/in/sachin-pal](https://linkedin.com/in/sachin-pal)
+- **Email:** remote.sachin@email.com
+- **GitHub:** [github.com/sachin-pal](https://github.com/sachin-pal)
+
+_"Engineering dynamic digital solutions, one clean commit at a time."_
+
 <!--
 **sachinpal137/sachinpal137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
