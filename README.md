@@ -21,9 +21,9 @@ An engineering graduate and ambitious full-stack developer dedicated to building
 ---
 
 ### 🤝 Connect with Me
-- **LinkedIn:** [linkedin.com/in/sachin-pal](https://linkedin.com/in/sachin-pal)
-- **Email:** remote.sachin@email.com
-- **GitHub:** [github.com/sachin-pal](https://github.com/sachin-pal)
+- **LinkedIn:** [linkedin.com/in/sachin-pal](https://www.linkedin.com/in/sachin-kumar-pal-486b75265?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **Email:** sachinkumarpal137@gmail.com
+- **GitHub:** [github.com/sachin-pal](https://github.com/sachinpal137)
 
 _"Engineering dynamic digital solutions, one clean commit at a time."_
 
