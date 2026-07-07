@@ -21,11 +21,10 @@ An engineering graduate and ambitious full-stack developer dedicated to building
 ---
 
 ### 🤝 Connect with Me
-- **LinkedIn:** [linkedin.com/in/sachin-pal](https://www.linkedin.com/in/sachin-kumar-pal-486b75265?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **LinkedIn:** [linkedin.com/in/sachin-pal](www.linkedin.com/in/sachin-kumar-pal-486b75265)
 - **Email:** sachinkumarpal137@gmail.com
 - **GitHub:** [github.com/sachin-pal](https://github.com/sachinpal137)
-
-_"Engineering dynamic digital solutions, one clean commit at a time."_
+ 
 
 <!--
 **sachinpal137/sachinpal137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
