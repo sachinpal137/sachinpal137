@@ -14,9 +14,9 @@ An engineering graduate and ambitious full-stack developer dedicated to building
 ---
 
 ### 📈 Current Focus
-- 🚀 Optimizing single-page application architectures for sub-second loading times.
-- 💡 Engineering scalable SaaS-style web dashboards using React & dynamic charting libraries.
-- 🟩 Maintaining a strict daily production commit streak.
+-   Optimizing single-page application architectures for sub-second loading times.
+-   Engineering scalable SaaS-style web dashboards using React & dynamic charting libraries.
+-   Maintaining a strict daily production commit streak.
 
 ---
 
